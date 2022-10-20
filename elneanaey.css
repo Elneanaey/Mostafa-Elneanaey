@@ -1484,7 +1484,7 @@ ul {
 }
 .footer .box .links li span::before {
   font-family: "Font Awesome 5 Free";
-  content: "\F101";
+  content: "\F111";
   font-weight: 900;
   margin-right: 10px;
   color: var(--main-color);
