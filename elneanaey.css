@@ -1482,9 +1482,9 @@ ul {
   color: #b9b9b9;
   transition: var(--main-transition-duration);
 }
-.footer .box .links li span::before {
-  font-family: "Font Awesome 5 Free";
-  content: "\F111";
+.footer .box .links li span i{
+  
+
   font-weight: 900;
   margin-right: 10px;
   color: var(--main-color);
